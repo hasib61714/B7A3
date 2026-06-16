@@ -10,7 +10,7 @@
 |------|------|
 | 📊 ERD Diagram | [View on Draw.io][(https://app.diagrams.net)](https://drive.google.com/file/d/1Th_5PH67qzYumjSxiRYc2gfB5sDCW8A0/view?usp=sharing) |
 | 💻 GitHub Repository | [hasib61714/B7A3](https://github.com/hasib61714/B7A3) |
-| 🎤 Interview Video | [Watch on Google Drive][(#)](https://drive.google.com/file/d/1V7wuE1Id88Zlj_WOxbF-gkoDsMcoE5sg/view?usp=sharing) |
+| 🎤 Interview Video | [Watch on Google Drive] (https://drive.google.com/file/d/1V7wuE1Id88Zlj_WOxbF-gkoDsMcoE5sg/view?usp=sharing) |
 
 
 ---

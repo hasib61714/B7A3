@@ -12,7 +12,6 @@
 | 💻 GitHub Repository | [hasib61714/B7A3](https://github.com/hasib61714/B7A3) |
 | 🎤 Interview Video | [Watch on Google Drive][(#)](https://drive.google.com/file/d/1V7wuE1Id88Zlj_WOxbF-gkoDsMcoE5sg/view?usp=sharing) |
 
-> ⚠️ Replace the placeholder links above with your actual public links before submission.
 
 ---
 
